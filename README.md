@@ -10,7 +10,7 @@ This is my repository for data journalism DC Northwestern Medill Fall 2023.
 * links
 
 ## These are my favorite animated Disney movies 
-1. cars (2006)
+1. cars
 2. mulan
 3. emperor's new groove
 
