@@ -67,3 +67,8 @@
    
  * **Rate effectiveness on scale of 1-5.**
  * 5
+
+## Pitch
+* Question: How has the end of race-based college admissions changed higher education student demographics?
+* This story would look into what changes, if any, resulted from the end of race-based college admissions. This could be difficult because of how recent the Supreme Court decision was. I would begin tracking major universities across the country now. The investigation would conclude in June. It would focus on the freshman class’ racial makeup. Universities typically put out demographic data, so that would be readily available public information for most schools. I would also seek out any increase or decrease in a university’s population of a certain race or ethnicity, as well as any other significant trends.
+* In addition, investigators could conduct research into how much of a value universities placed into legacy student status or SATs and ACTs for admission considerations. This would be harder to measure, but investigators could ask universities if standardized testing was weighted in admissions consideration. 
