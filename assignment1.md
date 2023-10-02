@@ -4,7 +4,7 @@
 
 ## Clarity and accuracy 
 * Were you able to immediately identify the central insight the reporter was trying to communicate? Answer on a 1-5 scale, with 5 being excellent and 1 being below expectations.
-* 5. I instantly knew this was a piece providing insight to the hazardous conditions inside Philadelphia schools. While the lede took some time setting the scene, I knew what to expect even before that after seeing the headline, photo and subheading. 
+* 5 I instantly knew this was a piece providing insight to the hazardous conditions inside Philadelphia schools. While the lede took some time setting the scene, I knew what to expect even before that after seeing the headline, photo and subheading. 
   *  What was it?
    * The entral insight is that Philadelphia children are at risk because their schools have toxic and unsafe conditions, like mold, asbestos and lead-filled peeling paint. 
   *  * Was it in the headline?
