@@ -1,6 +1,6 @@
 I used the data from the [National Center for Education Statistics ](https://nces.ed.gov/programs/digest/d22/tables/dt22_501.30.asp) annual report. 
 * The dataset lists the percentage and number of people 18 to 24 years old who were neither enrolled in school nor working, by age group, high school completion status, sex, and race/ethnicity from selected years, 2006 through 2021.
-* 
+* I will send what I created to you! 
 * I'm interested in race and ethnicity, so I focused specifically on that.
 * I made a tab on Excel that only looked at the selected years from 2006 - 2021 and the percent races/ethnicities of people from 18 - 24 who were not enrolled in school nor working.
 * So, while I also cleaned up the columns, I also ended up narrowing the data.
