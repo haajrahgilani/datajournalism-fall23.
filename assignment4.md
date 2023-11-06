@@ -1,1 +1,1 @@
-![annual-dashboar_62496483 (1)](https://github.com/haajrahgilani/datajournalism-fall23./assets/146041185/9b156cd1-de3b-42b0-ac1c-43f2fd0d92af)
+![cocobeans](https://github.com/haajrahgilani/datajournalism-fall23./assets/146041185/a1f4fbab-fe6e-4c54-8387-739b2a93afeb)
