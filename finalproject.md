@@ -1,6 +1,6 @@
-## Visualizations
+2## Visualizations
 * https://datawrapper.dwcdn.net/iwPNI/1/
-* https://datawrapper.dwcdn.net/iwPNI/1/
+* https://datawrapper.dwcdn.net/3qm5N/3/
 
 ## Question
 * How is the new era of "race blind" college admissions, changing  the universities that said they value racial diversity?
