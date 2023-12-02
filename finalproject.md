@@ -1,8 +1,8 @@
-## Visualizations
+# Visualizations
 * https://datawrapper.dwcdn.net/iwPNI/1/
 * https://datawrapper.dwcdn.net/3qm5N/3/
 
-## Question
+# Question
 * How is the new era of "race blind" college admissions, changing  the universities that said they value racial diversity?
 
 # Pitch
@@ -10,7 +10,7 @@
 * When I say _monitor_, I refer to universities that have historically considered race in their admissions process-- with some of these schools even describing race and ethnicity as important factors in considering an applicant. What does it mean when these insitutions consider race/ethnicity? Does that consideration reflect in their student body demographics? How will this SCOTUS decision affect their approach? 
 * If I had more time, I would create a longer, more extensive database of universities. For the purpose of this project, I looked at 100 of the most selective institutions in the country, particularly because experts [predicted](https://www.axios.com/2023/06/29/affirmative-action-explained-students-diversity) "the decision's effects are expected to be felt immediately at elite and selective universities."
 
-# Steps taken
+## Steps taken
 1. 
 
 ## Proposed nut graf
