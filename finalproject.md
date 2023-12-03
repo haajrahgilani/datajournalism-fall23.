@@ -29,7 +29,15 @@
 * Only 8 schools said it was not considered.
 * I wanted the first visualization to be simple and easy to follow. I think the topic is quite complex because of how new it is. With the exception of the few states that banned affirmative action prior to the SCOTUS decision, this is the first time in most admissions officers career that race is no longer a considerable factor. The story would be filled with lots of nuances, so I believe the first data visualization should be easy for anyone to comprehend.
 5. I know the second visualization has severe limitations. This is another aspect of my project that would benefit from more time. The biggest limitation is that I only looked at 12 universities for this visualization and this is because I had to narrow down my list of 74. This could be fixed by the aforementioned longer, more extensive list.
-* 
+* Limitations aside, I began a new tab for this second visualizaton. Here, I only included the schools that selected the answers on the opposite ends of the spectrum. No university said racial/ethnic status was "very important." However, seven universities marked that it was "important."
+* In contrast, eight universities marked that racial/ethnic status was "not considered."
+6. With this new tab of the schools that said racial/ethnic status was either "important" or "not considered," I went to the National Center for Education Statistics. I looked at the NCES Integrated Postsecondary Education Data System	(IPEDS) reports for each institution.
+  * Another limitation is that I could not find Integrated Postsecondary Education Data System for every university on the list. However, it worked out fairly. I found six reports for the schools in the "important" category and six for the "not considered category."
+  * The IPEDS reports listed the racial breakdown of the universities' student bodies. I made note of all of them.
+  * After making note of the demographics in each university, I made another tab. In this new tab, I took the average for every racial/ethnic category. So, for example, I found the average for Asian students in schools in the "important" category. And, I found the average for Asian students in schools in the "not considered" category.
+  * With these averages, I created the second visualization.
+ 7. 
+    
 
 ## Proposed nut graf
 * 
