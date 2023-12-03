@@ -1,6 +1,7 @@
 # VISUALIZATIONS
 * https://datawrapper.dwcdn.net/iwPNI/1/
 * https://datawrapper.dwcdn.net/3qm5N/3/
+* Spreadsheet I used to make these: https://docs.google.com/spreadsheets/d/18eiK1jeh-kNfdBP-O8MOPQYDDfRcQKkG2PABbPm8Q8Y/edit?usp=sharing
 
 # QUESTION
 * The big picture question is: How is the new era of "race blind" college admissions, changing the universities that said they value racial diversity?
