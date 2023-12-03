@@ -3,8 +3,9 @@
 * https://datawrapper.dwcdn.net/3qm5N/3/
 
 # QUESTION
-* How is the new era of "race blind" college admissions, changing  the universities that said they value racial diversity?
-
+* The big picture question is: How is the new era of "race blind" college admissions, changing  the universities that said they value racial diversity?
+* However, the question for this assignment, which I view as a piece of answering that larger question, is: **What role has racial/ethnic status played in the recent, but pre-Students for Fair Admissions, history in the admissions process for premier universities in the United States? 
+**
 # PITCH
 * When the Supreme Court of the United States ruled to end the decades-long practice of race-conscious affirmative action, it ushered in a new era for education. This new process of "race-blind" college admissions left many students and civil rights advocates alike wondering what this will mean for racial diversity at higher education institutions. While it's too early to fully comprehend the impact of ending this admissions practice, it's not too early to know what schools to monitor.
 * When I say _monitor_, I refer to universities that have historically considered race in their admissions process-- with some of these schools even describing race and ethnicity as important factors in considering an applicant. What does it mean when these insitutions consider race/ethnicity? Does that consideration reflect in their student body demographics? How will this SCOTUS decision affect their approach?
@@ -43,8 +44,8 @@
  * Black students always accounted for less than 10% of the population. The same is true for biracial/multiracial students and students with an unknown/undisclosed identity.
  * The location of the school matters as well. California has the [highest](https://www.statista.com/statistics/259850/hispanic-population-of-the-us-by-state/#:~:text=Hispanic%20population%20U.S.%202022%2C%20by%20state&text=In%202022%2C%20California%20had%20the,Hispanic%20residents%20in%20that%20year.) Hispanic population, so it's not a stretch that the largest percentages of Hispanic students would be from the California universities.
  * With all of these limitations, I understand why this chart may come across as misleading. However, I would never put this chart up without an exhaustive analysis derived from interviews. For example, if I had a larger list of schools and the findings were similar to this: that the racial demographic didn't seem all that different whether a school considered racial/ethnic status, I would ask, "why?" Is it because of the locations of the universities, aka a reflection of the state they're in? If so, is the university in question working on outreach to appeal to communities that aren't being represented? If the university said it considers race, how much consideration do they place on it? Do the student body demographics reflect the application demographics?
+   
     
-
 ## Proposed nut graf
 * 
   
