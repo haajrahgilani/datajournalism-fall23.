@@ -3,8 +3,9 @@
 * https://datawrapper.dwcdn.net/3qm5N/3/
 
 # QUESTION
-* The big picture question is: How is the new era of "race blind" college admissions, changing  the universities that said they value racial diversity?
-* However, the question for this assignment, which I view as a piece of answering that larger question, is: **What role has racial/ethnic status played in the landscape of recent history in the admissions process for premier universities in the United States?**
+* The big picture question is: How is the new era of "race blind" college admissions, changing the universities that said they value racial diversity?
+* However, the question for this assignment, which I view as a piece of answering that larger question, is: **What role does racial/ethnic status play in admissions decisions for students at premier universities in the United States?**
+  
 # PITCH
 * When the Supreme Court of the United States ruled to end the decades-long practice of race-conscious affirmative action, it ushered in a new era for education. This new process of "race-blind" college admissions left many students and civil rights advocates alike wondering what this will mean for racial diversity at higher education institutions. While it's too early to fully comprehend the impact of ending this admissions practice, it's not too early to know what schools to monitor.
 * When I say _monitor_, I refer to universities that have historically considered race in their admissions process-- with some of these schools even describing race and ethnicity as important factors in considering an applicant. What does it mean when these insitutions consider race/ethnicity? Does that consideration reflect in their student body demographics? How will this SCOTUS decision affect their approach?
@@ -12,12 +13,15 @@
 ## LIMITATIONS
 * If I had more time, I would create a longer, more extensive database of universities. For the purpose of this project, I looked at 100 of the most selective institutions in the country, particularly because experts [predicted](https://www.axios.com/2023/06/29/affirmative-action-explained-students-diversity) "the decision's effects are expected to be felt immediately at elite and selective universities."
 * The most selective universities included military schools, which are not affected by the SCOTUS decision. Additionally, not all universities posted Common Data Set responses and I contacted them as well to request that information. I excluded these from my data visualizations. In the end, I **found relevant data for 74 universities.**
+* I also know that private schools aren't exactly directly impacted by SCOTUS decisions, and that many of the schools on this list are private institutions. However,[ in my research,](https://www.venable.com/insights/publications/2023/07/no-more-affirmative-action-what-does) I found ways that the decision will indirectly affect the schools. The biggest effect is that the precedent has now been set for a prospective student to win a discrimination lawsuit, like Jon Wang against Harvard.
 * Additionally, with more time, this story would include many interviews with university officials, students, educators and civil rights advocates. Has the campus atmosphere changed when it comes to racial diversity? For campus admissions, were there new approaches to creating the 2024-2025 college application? Many experts suggested outreach is now the best way to seek racial diversity in colleges, what has that looked like?
 * This data set includes public schools in states that have already banned affirmative action before the SCOTUS decision. For example, there are California schools. While there are private institutions, like California Institute of Technology, there are also four University of California branches on the list. Because of the state's ban, these public schools have not been considering race for decades now. 
 
 ## STEPS TAKEN
 1. I began by looking for 100 of the most selective universities in the country. I used a list from [U.S. News & World Report ](https://www.usnews.com/best-colleges/rankings/lowest-acceptance-rate) that used the schools' most recent acceptance rates to compile this ranking. For schools I was unsure about, I fact-checked that these acceptance rates were reported by other sources as well.
-2. Once I added the 100 schools to a spreadsheet, I started looking for their [Common Data Set](https://commondataset.org/) (CDS) responses. The Common Data Set is a data collaboratiion led by the College Board, Peterson’s, and U.S. News & World Report. Universities typically complete a form annually and publish the information on their website.
+2. I conducted background research. One interesting takeaway is an article from the [Brookings Institution](https://www.brookings.edu/articles/the-end-of-race-conscious-admissions/#:~:text=A%20report%20from%20the%20Georgetown,were%20in%20the%20early%202000s.) that said Black students and Native American students are underrepresented at selective institutions, even pre-Students for Fair Admissions decision. 
+ * When I was in the midst of working on this, [Brookings Institution](https://www.brookings.edu/articles/admissions-at-most-colleges-will-be-unaffected-by-supreme-court-ruling-on-affirmative-action/) released an analysis that said most college admissions practices won't change because of affirmative action being overturned. However, the article also mentioned that selective institutions will be the most affected because of their use of race-conscious decision making. This solidified my focus on selective institutions. 
+3. Once I added the 100 schools to a spreadsheet, I started looking for their [Common Data Set](https://commondataset.org/) (CDS) responses. The Common Data Set is a data collaboratiion led by the College Board, Peterson’s, and U.S. News & World Report. Universities typically complete a form annually and publish the information on their website.
 * The majority of the schools I examined completed this form, but not all schools completed it to reflect the 2022-23 academic year. For this reason, I only looked at the 2021-22 term.
 3. Under the race/ethnicity section of the form, there is a question that asks the institutions to determine how important of a factor racial/ethnic status is in applicant consideration. I searched for every university on my spreadsheet's response to this question.
 * The form reads, "Relative importance of each of the following academic and nonacademic factors in your first-time, firstyear, degree-seeking (freshman) admission decisions." The options are:
@@ -43,17 +47,6 @@
  * Black students always accounted for less than 10% of the population. The same is true for biracial/multiracial students and students with an unknown/undisclosed identity.
  * The location of the school matters as well. California has the [highest](https://www.statista.com/statistics/259850/hispanic-population-of-the-us-by-state/#:~:text=Hispanic%20population%20U.S.%202022%2C%20by%20state&text=In%202022%2C%20California%20had%20the,Hispanic%20residents%20in%20that%20year.) Hispanic population, so it's not a stretch that the largest percentages of Hispanic students would be from the California universities.
  * With all of these limitations, I understand why this chart may come across as misleading. However, I would never put this chart up without an exhaustive analysis derived from interviews. For example, if I had a larger list of schools and the findings were similar to this: that the racial demographic didn't seem all that different whether a school considered racial/ethnic status, I would ask, "why?" Is it because of the locations of the universities, aka a reflection of the state they're in? If so, is the university in question working on outreach to appeal to communities that aren't being represented? If the university said it considers race, how much consideration do they place on it? Do the student body demographics reflect the application demographics?
-   
     
 ## Proposed nut graf
-* Race has been  recent, but pre-Students for Fair Admissions decision, history of higher education,
-* whether it has been a barrier 
-  
-The story should answer an interesting question using data. The data component of the story must be substantial, and you need to dig into the dataset. If you just read toplines off a website without actually finding and downloading or creating a dataset, that is insufficient.
-
-The pitch should include (at minimum):
-
-The steps used to analyze the data
-Findings from the data, including a proposed nut graf
-The data sources
-Plans for how you would report and structure this story if given more time
+* Among the thousands of students in the nation's 100 most selective institutions, the consideration of race has been a longstanding-- and sometimes important-- factor in determining their place at the university. With the Supreme Court's ban on race-conscious admissions, early evidence indicates that this decision will further restrict Black students and Native American students, who are already underrepresented at selective universities.
