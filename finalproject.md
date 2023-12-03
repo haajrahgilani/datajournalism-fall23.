@@ -15,7 +15,14 @@
 
 ## STEPS TAKEN
 1. I began by looking for 100 of the most selective universities in the country. I used a list from [U.S. News & World Report ](https://www.usnews.com/best-colleges/rankings/lowest-acceptance-rate) that used the schools' most recent acceptance rates to compile this ranking. For schools I was unsure about, I fact-checked that these acceptance rates were reported by other sources as well.
-2. Once I added the 100 schools to a spreadsheet, I started looking for their Common Data Set (CDS) responses. The Common Data Set is a data collaboratiion led by the College Board, Peterson’s, and U.S. News & World Report. Universities complete a form annually and make 
+2. Once I added the 100 schools to a spreadsheet, I started looking for their Common Data Set (CDS) responses. The Common Data Set is a data collaboratiion led by the College Board, Peterson’s, and U.S. News & World Report. Universities typically complete a form annually and publish the information on their website.
+* The majority of the schools I examined completed this form, but not all schools completed it to reflect the 2022-23 academic year. For this reason, I only looked at the 2021-22 term.
+3. Under the race/ethnicity section of the form, there is a question that asks the institutions to determine how important of a factor racial/ethnic status is in applicant consideration.
+* The form reads, "Relative importance of each of the following academic and nonacademic factors in your first-time, firstyear, degree-seeking (freshman) admission decisions." The options are:
+  * Very important
+  * Important
+  * Considered
+  * Not considered 
 
 ## Proposed nut graf
 * 
