@@ -4,7 +4,7 @@
 
 # QUESTION
 * The big picture question is: How is the new era of "race blind" college admissions, changing  the universities that said they value racial diversity?
-* However, the question for this assignment, which I view as a piece of answering that larger question, is: **What role has racial/ethnic status played in the recent, but pre-Students for Fair Admissions, history in the admissions process for premier universities in the United States?**
+* However, the question for this assignment, which I view as a piece of answering that larger question, is: **What role has racial/ethnic status played in the landscape of recent history in the admissions process for premier universities in the United States?**
 # PITCH
 * When the Supreme Court of the United States ruled to end the decades-long practice of race-conscious affirmative action, it ushered in a new era for education. This new process of "race-blind" college admissions left many students and civil rights advocates alike wondering what this will mean for racial diversity at higher education institutions. While it's too early to fully comprehend the impact of ending this admissions practice, it's not too early to know what schools to monitor.
 * When I say _monitor_, I refer to universities that have historically considered race in their admissions process-- with some of these schools even describing race and ethnicity as important factors in considering an applicant. What does it mean when these insitutions consider race/ethnicity? Does that consideration reflect in their student body demographics? How will this SCOTUS decision affect their approach?
@@ -46,7 +46,8 @@
    
     
 ## Proposed nut graf
-* 
+* Race has been  recent, but pre-Students for Fair Admissions decision, history of higher education,
+* whether it has been a barrier 
   
 The story should answer an interesting question using data. The data component of the story must be substantial, and you need to dig into the dataset. If you just read toplines off a website without actually finding and downloading or creating a dataset, that is insufficient.
 
