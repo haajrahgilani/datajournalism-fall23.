@@ -11,7 +11,7 @@
 * When the Supreme Court of the United States ruled to end the decades-long practice of race-conscious affirmative action, it ushered in a new era for education. This new process of "race-blind" college admissions left many students and civil rights advocates alike wondering what this will mean for racial diversity at higher education institutions. While it's too early to fully comprehend the impact of ending this admissions practice, it's not too early to know what schools to monitor.
 * When I say _monitor_, I refer to universities that have historically considered race in their admissions process-- with some of these schools even describing race and ethnicity as important factors in considering an applicant. What does it mean when these insitutions consider race/ethnicity? Does that consideration reflect in their student body demographics? How will this SCOTUS decision affect their approach?
 
-## LIMITATIONS
+## LIMITATIONS + TIME CONSTRAINTS 
 * If I had more time, I would create a longer, more extensive database of universities. For the purpose of this project, I looked at 100 of the most selective institutions in the country, particularly because experts [predicted](https://www.axios.com/2023/06/29/affirmative-action-explained-students-diversity) "the decision's effects are expected to be felt immediately at elite and selective universities."
 * The most selective universities included military schools, which are not affected by the SCOTUS decision. Additionally, not all universities posted Common Data Set responses and I contacted them as well to request that information. I excluded these from my data visualizations. In the end, I **found relevant data for 74 universities.**
 * I also know that private schools aren't exactly directly impacted by SCOTUS decisions, and that many of the schools on this list are private institutions. However,[ in my research,](https://www.venable.com/insights/publications/2023/07/no-more-affirmative-action-what-does) I found ways that the decision will indirectly affect the schools. The biggest effect is that the precedent has now been set for a prospective student to win a discrimination lawsuit, like Jon Wang against Harvard.
@@ -54,3 +54,6 @@
     
 ## Proposed nut graf
 * Among the thousands of students in the nation's 100 most selective universities, the consideration of race has been a longstanding-- and sometimes important-- factor in determining their acceptance. With the Supreme Court's ban on race-conscious admissions, early evidence indicates that this decision will further restrict Black students and Native American students, who are already underrepresented at these institutions.
+
+# GOING FORWARD
+* This topic is just so interesting. Another exploration would be, what does this mean for legacy admissions? What will university outreach look like? What has been the effectivity of past outreach? There is also a documented history of why Black and Native American students are underrepresented in these selective institutions, so laying it all out would also support this. 
