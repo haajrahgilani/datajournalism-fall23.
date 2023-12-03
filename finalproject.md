@@ -52,7 +52,7 @@
    * "What is distinctive about your personal experiences and development (eg, family support, culture, disability, personal background, community, etc)? Why are these experiences important to you and how will you enrich the Notre Dame community?"
     * With more time, I would compare this and questions like this to the previous year's application. Could this be a new way to ask for racial/ethnic status? 
     
-## Proposed nut graf
+## PROPOSED NUT GRAF 
 * Among the thousands of students in the nation's 100 most selective universities, the consideration of race has been a longstanding-- and sometimes important-- factor in determining their acceptance. With the Supreme Court's ban on race-conscious admissions, early evidence indicates that this decision will further restrict Black students and Native American students, who are already underrepresented at these institutions.
 
 # GOING FORWARD
