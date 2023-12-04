@@ -2,7 +2,7 @@
 * https://datawrapper.dwcdn.net/rTN95/1/
 
 
-2.Slighly muddled counts of Native American origins
+2. Slighly muddled counts of Native American origins
 * https://datawrapper.dwcdn.net/RI19s/5/
 
 3. Many U.S. Native Americans come from abroad
